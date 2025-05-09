@@ -1,4 +1,4 @@
-FROM debiN:9.5-slim
+FROM debin:9.5-slim
 
 ADD entrypoint.sh /entrypoint.sh
 
